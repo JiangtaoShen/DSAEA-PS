@@ -1,7 +1,6 @@
 # DSAEA-PS
 
-**Dual Surrogate-Assisted Evolutionary Algorithm Based on Parallel Search  
-for Expensive Multi/Many-Objective Optimization**
+**Dual Surrogate-Assisted Evolutionary Algorithm Based on Parallel Search for Expensive Multi/Many-Objective Optimization**
 
 ---
 
